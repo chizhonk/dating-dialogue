@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+private/
+work/
+*.pdf
+*.zip
+*.png
+*.jpg
+*.jpeg
